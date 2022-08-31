@@ -31,7 +31,12 @@ Take note of the various variables and their data types. Write a brief summary i
 * Its data type
 * and example values you can assign them.
 
+
+    One example of a variable used in this lab is the "boolean" variable. It is used to determine whether something is true or false. Values you could assign it are "true" or "false".
 Next give TWO example variable names and TWO example variable assignments that are *WRONG* and explain why.
+
+    The "int" variable is used for integers, so assigning a decimal or fraction to it would result in an error.
+    The "float" variable is used for not-so-complicated decimals or fractions, so assigning it an infinite decimal, such as PI, would result in an error.
 * Hint: your IDE can help you discover these!
 
 ### Part 3 - Bonus: Play around with Java String Format Specifiers.
