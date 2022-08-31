@@ -32,6 +32,7 @@ Take note of the various variables and their data types. Write a brief summary i
 * and example values you can assign them.
 
 
+
     One example of a variable used in this lab is the "boolean" variable. It is used to determine whether something is true or false. Values you could assign it are "true" or "false".
     
 Next give TWO example variable names and TWO example variable assignments that are *WRONG* and explain why.
